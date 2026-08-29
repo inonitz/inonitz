@@ -19,9 +19,9 @@
 ![CMake][cmake-badge]
 
 Systems programmer. I build autonomous &amp; ML-driven systems, speech-recognition
-pipelines, operating systems, and GPU compute &mdash; from scratch, in C++.
+pipelines, operating systems, and GPU compute. All from scratch, in C++.
 
-**Currently** &mdash; [groundstation](https://github.com/inonitz/groundstation)
+**Currently** &middot; [groundstation](https://github.com/inonitz/groundstation)
 (autonomous drone flight management) and
 [sttserv](https://github.com/inonitz/sttserv) (multi-model speech recognition).
 
@@ -29,9 +29,9 @@ pipelines, operating systems, and GPU compute &mdash; from scratch, in C++.
 
 ### Featured
 
-**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &mdash; ML-driven autonomous drone flight management via a natural-voice command interface.
+**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &middot; ML-driven autonomous drone flight management via a natural-voice command interface.
 
-**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`Python` &mdash; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
+**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`Python` &middot; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
 
 ---
 
@@ -39,11 +39,11 @@ pipelines, operating systems, and GPU compute &mdash; from scratch, in C++.
 
 | project | | stack |
 |---|---|---|
-| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | OS bootloader + kernel &mdash; see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot) | `C` |
-| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows port of Tailslayer &mdash; cuts DRAM-read tail-latency via channel-replicated, hedged memory reads | `C++` |
-| [**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) &nbsp;★3 | real-time 2D fluid &mdash; GPU Gems ch. 38, OpenGL compute shaders | `C++` |
+| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | OS bootloader + kernel (see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot)) | `C` |
+| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows port of Tailslayer: cuts DRAM-read tail-latency via channel-replicated, hedged memory reads | `C++` |
+| [**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) | real-time 2D fluid (GPU Gems ch. 38, OpenGL compute shaders) | `C++` |
 | [**neural-nets-from-scratch**](https://github.com/inonitz/neural-nets-from-scratch) | backprop &amp; MLPs in raw numpy | `Python` |
-| [**premake5-workspace-template**](https://github.com/inonitz/premake5-workspace-template) | premake5 workspace &mdash; dependencies + sub-projects | `C++` |
+| [**premake5-workspace-template**](https://github.com/inonitz/premake5-workspace-template) | premake5 workspace: dependencies + sub-projects | `C++` |
 | [**tree**](https://github.com/inonitz/tree) | generic AVL tree (C / C++), recursive + iterative | `C++` |
 
 <!-- OPTIONAL: WakaTime (profile stays PRIVATE; aggregate language %s only, no repo names).
