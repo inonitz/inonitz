@@ -39,11 +39,11 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 
 | project | | stack |
 |---|---|---|
-| [**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) | real-time 2D fluid (GPU Gems ch. 38, OpenGL compute shaders) | `C++` |
-| [**glsl-compute-raytracer**](https://github.com/inonitz/glsl-compute-raytracer) | GPU compute-shader raytracer, cross-platform (Windows/Linux) tech demo | `C++` |
-| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;![stars](https://img.shields.io/github/stars/inonitz/PrimOS?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) | UEFI bootloader + kernel (see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot)) | `C` |
-| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows DRAM tail-latency via channel-replicated, hedged memory reads | `C++` |
-| [**util2**](https://github.com/inonitz/util2) | cross-platform C/C++ utility library: allocators, hashing, RNG, ABI-stable C API | `C++` |
+| ![stars](https://img.shields.io/github/stars/inonitz/compute-shader-fluid-2d?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) | real-time 2D fluid (GPU Gems ch. 38, OpenGL compute shaders) | `C++` |
+| ![stars](https://img.shields.io/github/stars/inonitz/glsl-compute-raytracer?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**glsl-compute-raytracer**](https://github.com/inonitz/glsl-compute-raytracer) | GPU compute-shader raytracer, cross-platform (Windows/Linux) tech demo | `C++` |
+| ![stars](https://img.shields.io/github/stars/inonitz/PrimOS?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**PrimOS**](https://github.com/inonitz/PrimOS) | UEFI bootloader + kernel (see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot)) | `C` |
+| ![stars](https://img.shields.io/github/stars/inonitz/tailslayer_win32?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows DRAM tail-latency via channel-replicated, hedged memory reads | `C++` |
+| ![stars](https://img.shields.io/github/stars/inonitz/util2?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**util2**](https://github.com/inonitz/util2) | cross-platform C/C++ utility library: allocators, hashing, RNG, ABI-stable C API | `C++` |
 
 ---
 
