@@ -29,9 +29,9 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 
 ### Featured
 
-**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &middot; ML-driven autonomous drone flight management via a natural-voice command interface.
+![stars](https://img.shields.io/github/stars/inonitz/groundstation?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &middot; ML-driven autonomous drone flight management via a natural-voice command interface.
 
-**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`Python` &middot; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
+![stars](https://img.shields.io/github/stars/inonitz/sttserv?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`C++ / Python` &middot; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
 
 ---
 
