@@ -45,6 +45,25 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 | ![stars](https://img.shields.io/github/stars/inonitz/tailslayer_win32?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows DRAM tail-latency via channel-replicated, hedged memory reads | `C++` |
 | ![stars](https://img.shields.io/github/stars/inonitz/util2?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;[**util2**](https://github.com/inonitz/util2) | cross-platform C/C++ utility library: allocators, hashing, RNG, ABI-stable C API | `C++` |
 
+<details>
+<summary><b>Full stack</b></summary>
+
+<br>
+
+**Languages:** C++, C, Python, x86-64 Assembly, GLSL, C#
+
+**GPU / Graphics:** OpenGL compute, GLSL, Vulkan, SPIR-V, glbinding, GLFW, Dear ImGui, SDL3, shaderc, GLM
+
+**Systems / OS:** UEFI (GNU-EFI), x86-64 boot, QEMU/OVMF, Win32, MemProcFS, miniaudio
+
+**ML / AI:** llama.cpp, whisper.cpp, Sherpa-ONNX, faster-whisper, CTranslate2, Transformers/PyTorch, ONNX Runtime, NumPy
+
+**Robotics:** PX4, Gazebo, OpenVINS, StellaVSLAM, GStreamer, OpenCV, Eigen
+
+**Build / Test:** CMake, premake5, Ninja, Docker, GoogleTest, Google Benchmark, GitHub Actions
+
+</details>
+
 ---
 
 ### Stats
