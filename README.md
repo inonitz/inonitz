@@ -50,7 +50,7 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 ### Stats
 
 <img height="150" src="https://github-stats-extended.vercel.app/api?username=inonitz&show_icons=true&hide_border=true&theme=github_dark" alt="inonitz GitHub stats" />
-<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=inonitz&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=inonitz&layout=compact&hide_border=true&hide=objective-c,lua,makefile&theme=github_dark" alt="Most used languages" />
 
 <!-- OPTIONAL: WakaTime (profile stays PRIVATE; aggregate language %s only, no repo names).
      Enable athul/waka-readme, add WAKATIME_API_KEY secret, then uncomment: -->
