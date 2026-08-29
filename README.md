@@ -46,6 +46,13 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 | [**premake5-workspace-template**](https://github.com/inonitz/premake5-workspace-template) | premake5 workspace: dependencies + sub-projects | `C++` |
 | [**tree**](https://github.com/inonitz/tree) | generic AVL tree (C / C++), recursive + iterative | `C++` |
 
+---
+
+### Stats
+
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=inonitz&show_icons=true&hide_border=true&theme=tokyonight" alt="inonitz GitHub stats" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=inonitz&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
 <!-- OPTIONAL: WakaTime (profile stays PRIVATE; aggregate language %s only, no repo names).
      Enable athul/waka-readme, add WAKATIME_API_KEY secret, then uncomment: -->
 <!--START_WAKA-->
