@@ -12,10 +12,10 @@
 ![C++][cpp-badge]
 ![C][c-badge]
 ![Python][py-badge]
-![CUDA][cuda-badge]
+![Assembly][asm-badge]
+![GLSL][glsl-badge]
 ![OpenGL][gl-badge]
 ![Vulkan][vk-badge]
-![OpenCL][cl-badge]
 ![CMake][cmake-badge]
 
 Systems programmer. I build autonomous &amp; ML-driven systems, speech-recognition
@@ -63,8 +63,8 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 [cpp-badge]:   https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
 [c-badge]:     https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 [py-badge]:    https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[cuda-badge]:  https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+[asm-badge]:   https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge
+[glsl-badge]:  https://img.shields.io/badge/GLSL-1E5A8A?style=for-the-badge
 [gl-badge]:    https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white
 [vk-badge]:    https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white
-[cl-badge]:    https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=opencl&logoColor=white
 [cmake-badge]: https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white
