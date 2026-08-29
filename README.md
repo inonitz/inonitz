@@ -19,7 +19,7 @@
 ![CMake][cmake-badge]
 
 Systems programmer. I build autonomous &amp; ML-driven systems, speech-recognition
-pipelines, operating systems, and build GPGPU compute systems - Mostly From Scratch, also do integration work.
+pipelines, operating systems & GPGPU compute systems - Mostly From Scratch, also do integration work.
 
 **Currently** &middot; [groundstation](https://github.com/inonitz/groundstation)
 (autonomous drone flight management) and
