@@ -1,13 +1,13 @@
 <!-- ========================================================================
-     DRAFT profile README  ->  repo: github.com/inonitz/inonitz
-     Base: orhun (dense/table-driven) + Othneildrew header + DenverCoder1 top-half
-     Curated badges: Ileriayo/markdown-badges  |  Stats: github-readme-stats
-     {{confirm}} = description I guessed; verify or replace.
+     profile README  ->  repo: github.com/inonitz/inonitz
+     Base: orhun (dense/table-driven) + Othneildrew header
+     Badges: Ileriayo/markdown-badges (reference-style links at bottom)
+     Stats cards removed: public github-readme-stats instance is rate-limited (503).
      ======================================================================== -->
 
 # inonitz
 
-### low-level C++ &middot; graphics &amp; GPU compute &middot; ML systems
+### low-level C++ &middot; autonomous &amp; ML systems &middot; OS &amp; GPU compute
 
 ![C++][cpp-badge]
 ![C][c-badge]
@@ -18,52 +18,33 @@
 ![OpenCL][cl-badge]
 ![CMake][cmake-badge]
 
-Systems programmer. I build graphics engines, GPU compute kernels
-(Vulkan / OpenCL / GLSL), and ML inference systems &mdash; from scratch, in C++.
+Systems programmer. I build autonomous &amp; ML-driven systems, speech-recognition
+pipelines, operating systems, and GPU compute &mdash; from scratch, in C++.
 
-**Currently** &mdash; porting **Moondream 3.1** (9B-A2B vision MoE) to `llama.cpp`
-with hand-written SPIR-V / Vulkan compute kernels.
+**Currently** &mdash; [groundstation](https://github.com/inonitz/groundstation)
+(autonomous drone flight management) and
+[sttserv](https://github.com/inonitz/sttserv) (multi-model speech recognition).
+
+---
+
+### Featured
+
+**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &mdash; ML-driven autonomous drone flight management via a natural-voice command interface.
+
+**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`Python` &mdash; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
 
 ---
 
 ### Selected work
 
-**Now**
-
 | project | | stack |
 |---|---|---|
-| [**groundstation**](https://github.com/inonitz/groundstation) | LLM-driven ground-control station `{{confirm}}` | `C++` |
-| [**cmake_cuda_physics**](https://github.com/inonitz/cmake_cuda_physics) | GPU physics simulation on CUDA `{{confirm}}` | `C++` · `CUDA` |
-
-**Graphics &amp; GPU**
-
-| project | | stack |
-|---|---|---|
+| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | OS bootloader + kernel &mdash; see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot) | `C` |
+| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows port of Tailslayer &mdash; cuts DRAM-read tail-latency via channel-replicated, hedged memory reads | `C++` |
 | [**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) &nbsp;★3 | real-time 2D fluid &mdash; GPU Gems ch. 38, OpenGL compute shaders | `C++` |
-| [**pygame-software-renderer**](https://github.com/inonitz/pygame-software-renderer) | from-scratch software 3D renderer | `Python` |
-| [**cpp-graphics-archive**](https://github.com/inonitz/cpp-graphics-archive) | ray marcher + SIMD physics experiments | `C++` |
-
-**Systems**
-
-| project | | stack |
-|---|---|---|
-| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | OS bootloader + kernel | `C` |
-| [**x86-smp-boot**](https://github.com/inonitz/x86-smp-boot) | x86_64 SMP bring-up: real &rarr; protected &rarr; long mode | `Asm` |
-
-**Foundations**
-
-| project | | stack |
-|---|---|---|
 | [**neural-nets-from-scratch**](https://github.com/inonitz/neural-nets-from-scratch) | backprop &amp; MLPs in raw numpy | `Python` |
-
----
-
-### Stats
-
-<a href="https://github.com/inonitz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inonitz&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="inonitz GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inonitz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-</a>
+| [**premake5-workspace-template**](https://github.com/inonitz/premake5-workspace-template) | premake5 workspace &mdash; dependencies + sub-projects | `C++` |
+| [**tree**](https://github.com/inonitz/tree) | generic AVL tree (C / C++), recursive + iterative | `C++` |
 
 <!-- OPTIONAL: WakaTime (profile stays PRIVATE; aggregate language %s only, no repo names).
      Enable athul/waka-readme, add WAKATIME_API_KEY secret, then uncomment: -->
