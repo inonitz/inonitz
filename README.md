@@ -39,12 +39,11 @@ pipelines, operating systems, and GPU compute. All from scratch, in C++.
 
 | project | | stack |
 |---|---|---|
-| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | OS bootloader + kernel (see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot)) | `C` |
-| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows port of Tailslayer: cuts DRAM-read tail-latency via channel-replicated, hedged memory reads | `C++` |
 | [**compute-shader-fluid-2d**](https://github.com/inonitz/compute-shader-fluid-2d) | real-time 2D fluid (GPU Gems ch. 38, OpenGL compute shaders) | `C++` |
-| [**neural-nets-from-scratch**](https://github.com/inonitz/neural-nets-from-scratch) | backprop &amp; MLPs in raw numpy | `Python` |
-| [**premake5-workspace-template**](https://github.com/inonitz/premake5-workspace-template) | premake5 workspace: dependencies + sub-projects | `C++` |
-| [**tree**](https://github.com/inonitz/tree) | generic AVL tree (C / C++), recursive + iterative | `C++` |
+| [**glsl-compute-raytracer**](https://github.com/inonitz/glsl-compute-raytracer) | GPU compute-shader raytracer, cross-platform (Windows/Linux) tech demo | `C++` |
+| [**PrimOS**](https://github.com/inonitz/PrimOS) &nbsp;★4 | UEFI bootloader + kernel (see also [x86-smp-boot](https://github.com/inonitz/x86-smp-boot)) | `C` |
+| [**tailslayer_win32**](https://github.com/inonitz/tailslayer_win32) | Windows DRAM tail-latency via channel-replicated, hedged memory reads | `C++` |
+| [**util2**](https://github.com/inonitz/util2) | cross-platform C/C++ utility library: allocators, hashing, RNG, ABI-stable C API | `C++` |
 
 ---
 
