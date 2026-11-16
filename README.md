@@ -23,7 +23,7 @@ pipelines, operating systems & GPGPU compute systems - Mostly From Scratch, also
 
 **Currently** &middot; [groundstation](https://github.com/inonitz/groundstation)
 (autonomous drone flight management) and
-[sttserv](https://github.com/inonitz/sttserv) (multi-model speech recognition).
+[libEdgeASR](https://github.com/inonitz/libEdgeASR) (multi-model speech recognition).
 
 ---
 
@@ -31,7 +31,7 @@ pipelines, operating systems & GPGPU compute systems - Mostly From Scratch, also
 
 ![stars](https://img.shields.io/github/stars/inonitz/groundstation?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;**[groundstation](https://github.com/inonitz/groundstation)** &nbsp;`C++` &middot; ML-driven autonomous drone flight management via a natural-voice command interface.
 
-![stars](https://img.shields.io/github/stars/inonitz/sttserv?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;**[sttserv](https://github.com/inonitz/sttserv)** &nbsp;`C++ / Python` &middot; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
+![stars](https://img.shields.io/github/stars/inonitz/libEdgeASR?style=flat-square&label=%E2%98%85&color=e3b341&labelColor=30363d) &nbsp;**[libEdgeASR](https://github.com/inonitz/libEdgeASR)** &nbsp;`C++ / Python` &middot; speech-recognition (ASR) abstraction over Sherpa-ONNX and whisper.cpp; English-first, Hebrew-capable.
 
 ---
 
